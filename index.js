@@ -22,5 +22,5 @@ async function main() {
         console.error(`${error.message}`);
         console.error("=".repeat(30));
     }
-}
+} 
 main();
